@@ -8,22 +8,23 @@ I enjoy turning ideas into working products across the frontend and backend. My 
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
+| [HookLens](https://github.com/merak-max/hooklens) | A self-hosted webhook workspace with generated endpoints, live event streaming, HMAC verification, persisted history, search, guarded replay, API/browser tests, and Docker support. | TypeScript, React, Express, SSE, Playwright, Docker |
 | [Advance Online Chatbot](https://github.com/merak-max/advance-online-chatbot) · [Live demo](https://merak-max.github.io/advance-online-chatbot/) | Streaming AI responses, controlled model selection, document Q&A, backups, defensive validation, and extensive browser testing. | React, Express, OpenAI SDK, GSAP, Playwright |
-| [Mini AlgoChat](https://github.com/merak-max/mini-algochat) · [Live demo](https://merak-max.github.io/mini-algochat/) | A full-stack chatbot with a React interface, Express API, model-provider integration, and automated GitHub Pages deployment. | React, Vite, Node.js, Express, OpenAI SDK |
 | [Blue Carbon Registry](https://github.com/merak-max/blue-carbon-registry) · [Live demo](https://merak-max.github.io/blue-carbon-registry/) | An independent full-stack prototype for carbon projects, verification states, credit accounting, and stakeholder dashboards. | React, TypeScript, Express, MongoDB |
+| [Developer Portfolio](https://github.com/merak-max/hemant-portfolio) · [Live site](https://hemant-portfolio-hazel.vercel.app) | A responsive, project-focused portfolio with structured metadata, automated verification, and continuous Vercel deployment. | Next.js, React, TypeScript, CSS, GitHub Actions |
 
 ## Currently building
 
-- Extending the Blue Carbon Registry with deeper project and transaction workflows.
-- Expanding TypeScript, database-design, security, testing, and deployment skills through production-style projects.
+- Hardening HookLens around authentication, retention controls, rate limiting, and network-level replay safeguards.
+- Expanding TypeScript, database design, security, testing, and deployment skills through production-style projects.
 
 ## Technical toolkit
 
-- **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Vite
-- **Backend:** Node.js, Express, REST APIs
+- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Vite
+- **Backend:** Node.js, Express, REST APIs, Server-Sent Events
 - **AI:** OpenAI-compatible APIs, streaming responses, prompt and input safeguards
 - **Data:** MongoDB, browser storage, JSON data workflows
-- **Quality and delivery:** Git, GitHub Actions, Playwright, Node.js testing
+- **Quality and delivery:** Git, GitHub Actions, Playwright, Node.js testing, Docker
 
 ## Connect
 
