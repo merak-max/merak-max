@@ -10,11 +10,11 @@ I enjoy turning ideas into working products across the frontend and backend. My 
 | --- | --- | --- |
 | [Advance Online Chatbot](https://github.com/merak-max/advance-online-chatbot) · [Live demo](https://merak-max.github.io/advance-online-chatbot/) | Streaming AI responses, controlled model selection, document Q&A, backups, defensive validation, and extensive browser testing. | React, Express, OpenAI SDK, GSAP, Playwright |
 | [Mini AlgoChat](https://github.com/merak-max/mini-algochat) · [Live demo](https://merak-max.github.io/mini-algochat/) | A full-stack chatbot with a React interface, Express API, model-provider integration, and automated GitHub Pages deployment. | React, Vite, Node.js, Express, OpenAI SDK |
-| [Blue Carbon Registry](https://github.com/merak-max/SIH-AI-powered-Blue-Carbon-Registry-) | A full-stack prototype for managing carbon projects, verification workflows, users, and transactions. | React, TypeScript, Node.js, Express, MongoDB |
+| [Blue Carbon Registry](https://github.com/merak-max/blue-carbon-registry) · [Live demo](https://merak-max.github.io/blue-carbon-registry/) | An independent full-stack prototype for carbon projects, verification states, credit accounting, and stakeholder dashboards. | React, TypeScript, Express, MongoDB |
 
 ## Currently building
 
-- Rebuilding the Blue Carbon Registry around an accurate product scope, documented architecture, and verifiable workflows.
+- Extending the Blue Carbon Registry with deeper project and transaction workflows.
 - Expanding TypeScript, database-design, security, testing, and deployment skills through production-style projects.
 
 ## Technical toolkit
