@@ -5,14 +5,18 @@ I build developer tools for webhooks and APIs. TypeScript · Node · React · Go
 ### [HookLens](https://github.com/merak-max/hooklens) · Developer tools
 
 Self-hosted webhook inspector with live capture, HMAC-SHA256 verification,
-and guarded replay to configured hosts. Built with TypeScript, Node, and React.
+structural schema-drift detection, and guarded replay to configured hosts.
+Built with TypeScript, Node, and React.
 
 Generated capture endpoints, live updates over Server-Sent Events, searchable
 delivery history, API and browser tests, and a Docker setup.
 
+[Browser sandbox — synthetic events](https://merak-max.github.io/hooklens/) ·
 [Quickstart](https://github.com/merak-max/hooklens#local-development) ·
-[Architecture](https://github.com/merak-max/hooklens#architecture) ·
-[Security boundaries](https://github.com/merak-max/hooklens/blob/main/SECURITY.md)
+[Measured benchmarks](https://github.com/merak-max/hooklens/tree/main/benchmarks)
+
+Design notes: [Why SSE](https://github.com/merak-max/hooklens/blob/main/docs/why-sse.md) ·
+[Replay threat model](https://github.com/merak-max/hooklens/blob/main/docs/replay-threat-model.md)
 
 ### [Auction Engine](https://github.com/merak-max/auction-engine) · Backend systems
 
