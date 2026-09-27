@@ -38,3 +38,7 @@ not a WAN or production latency guarantee.
 
 - [Blue Carbon Registry](https://github.com/merak-max/blue-carbon-registry): a prototype for carbon-project verification workflows and credit accounting.
 - [Developer portfolio](https://github.com/merak-max/hemant-portfolio): selected projects, with a [live site](https://hemant-portfolio-hazel.vercel.app).
+
+### Open source
+
+- [ipaddr.js — merged PR #215](https://github.com/whitequark/ipaddr.js/pull/215): corrected the documented CIDR range example so its tuple types work in TypeScript as well as JavaScript.
